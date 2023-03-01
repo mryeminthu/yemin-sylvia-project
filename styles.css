@@ -61,4 +61,6 @@ body {
     #header-img {
       width: 18rem;
     }
-  
+  .btn {
+    background-color: orange;
+  }
