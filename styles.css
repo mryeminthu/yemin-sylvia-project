@@ -23,6 +23,10 @@ body {
           flex-wrap: wrap;
           gap: 1.2 rem;
         }
+        #nav-bar ul li a {
+          color: rgb(51, 3, 0)
+         
+        } 
   #message {
     grid-column: 1 / -1;
     position: relative;
