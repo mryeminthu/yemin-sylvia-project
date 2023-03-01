@@ -28,3 +28,8 @@ body {
     position: relative;
     text-align: center;
   }
+  #form {
+    align-items: center;
+      display: flex;
+      flex-direction: column;
+       }
