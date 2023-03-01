@@ -21,6 +21,7 @@ body {
           justify-content: flex-end;
           text-align: center;
           flex-wrap: wrap;
+          gap: 1.2 rem;
         }
   #hero {
     grid-column: 1 / -1;
