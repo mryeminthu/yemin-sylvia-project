@@ -23,7 +23,7 @@ body {
           flex-wrap: wrap;
           gap: 1.2 rem;
         }
-  #hero {
+  #message {
     grid-column: 1 / -1;
     position: relative;
     text-align: center;
@@ -45,3 +45,11 @@ body {
         justify-content: flex-end;
          text-align: center;
        }
+  header {
+    justify-content: flex-end;
+    display: flex;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 1em;
+  }     
