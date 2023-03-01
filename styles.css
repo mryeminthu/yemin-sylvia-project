@@ -23,7 +23,7 @@ body {
           flex-wrap: wrap;
           gap: 1.2 rem;
         }
-  #hero {
+  #message {
     grid-column: 1 / -1;
     position: relative;
     text-align: center;
