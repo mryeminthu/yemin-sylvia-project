@@ -33,3 +33,15 @@ body {
       display: flex;
       flex-direction: column;
        }
+       .footer {
+        max-width: 100%;
+       display: flex;
+       flex-direction: column;
+       align-items: flex-end;
+      }
+      #footerlinks {
+        display: flex;
+       flex-wrap: wrap;
+        justify-content: flex-end;
+         text-align: center;
+       }
